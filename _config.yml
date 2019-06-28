@@ -1,0 +1,38 @@
+# ----------- CONFIGURABLE START -----------
+title:            "Chan Jeff|MAKER blog|"
+description:      "Full Stack MAKER FOR FUTURE"
+url:              https://chanjeff123.github.io # 域名
+signoff:          "Jeff" # Your name
+facebook_appid:   #JEFF
+google_analytics: UA-101222464-1
+share:            true 
+# 分页
+paginate: 15
+paginate_path: "liberxuepage:num"
+gems: [jekyll-paginate]
+links:
+  - name:         首页
+    url:          /
+    external:     false
+  - name:         设计
+    url:          /design
+    external:     false
+  - name:         生活
+    url:          /life
+    external:     false
+  - name:         归档
+    url:          /archives
+    external:     false
+  - name:         标签
+    url:          /tags
+    external:     false
+  - name:         关于
+    url:          /about
+    external:     false
+# ------------ CONFIGURABLE END ------------
+
+#permalink:        /:categories/:title.html
+permalink: /:year/:month/:day/:title.html
+defaults:
+  - values:
+      layout: "default"
