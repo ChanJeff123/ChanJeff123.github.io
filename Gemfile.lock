@@ -1,5 +1,6 @@
 GEM
 gem "jekyll", ">= 3.6.3"
+gem "ffi", ">= 1.9.24"
   remote: http://rubygems.org/
   specs:
     activesupport (4.2.7)
@@ -79,7 +80,6 @@ gem "jekyll", ">= 3.6.3"
       nokogiri (>= 1.4)
     i18n (0.8.1)
     jekyll (3.4.1)
-    gem "ffi", ">= 1.9.24"
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
