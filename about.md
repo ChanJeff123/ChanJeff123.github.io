@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: 关于LiberXue
-description: "关于LiberXue博客角落自述"
+title: 关于Jeff
+description: "关于Jeff博客角落自述"
 data: 2017-08-05 09:19:11
 tags: 
-- LiberXue
+- Jeff
 - 简述
 - 关于
 - Liber
@@ -18,14 +18,14 @@ redirect_from:
  
 又换了个博客主题 这次终于看见不那么难受了
  
-博客使用Jekyll搭建托管在GitHub目前使用主题后期[已开源](https://github.com/Liberxue/liberxue.github.io)
+博客使用Jekyll搭建托管在GitHub目前使用主题后期[已开源](https://github.com/Jeff/Jeff.github.io)
  
-<iframe src="http://ghbtns.com/github-btn.html?user=liberxue&repo=liberxue.github.io&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
+<iframe src="http://ghbtns.com/github-btn.html?user=Jeff&repo=Jeff.github.io&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
  
 
 博客图片使用七牛云加速
 
-##  LiberXue  曾用名013
+##  Jeff  曾用名013
  
 ### 曾用名013简述
  
@@ -38,7 +38,7 @@ redirect_from:
  
 还有一个原因2009年9月13日我在北京只剩下6块钱活三个月时间...
  
-### LiberXue简述
+### Jeff简述
  
 #### Liber注释
  
@@ -80,7 +80,7 @@ redirect_from:
  
 不喜欢被打扰，也不习惯打扰别人
  
-「所以我不用评论」，社交软件基本很少用，如果您对我的blog有疑问，请发送[Email](mailto:liberxue@gmail.com) 联系我。
+「所以我不用评论」，社交软件基本很少用，如果您对我的blog有疑问，请发送[Email](mailto:Jeff@gmail.com) 联系我。
  
 这个世界太热闹了，也言语太“自由” 需要`面壁者`也需要`独立思考`和`独立学习生活者`和`独立解决问题者`
  
@@ -187,8 +187,8 @@ redirect_from:
  
 你可以通过以下几种方式联系到我。
 
-* [提交Issues](https://github.com/Liberxue/liberxue.github.io/issues)
+* [提交Issues](https://github.com/Jeff/Jeff.github.io/issues)
  
-* [发邮件](mailto:liberxue@gmail.com)
+* [发邮件](mailto:Jeff@gmail.com)
  
-* [Twitter](https://twitter.com/liberxue).
+* [Twitter](https://twitter.com/Jeff).

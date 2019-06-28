@@ -42,7 +42,7 @@ gpg --gen-key
 ```
 ###### 记录一下生成的key的ID，
 
-比如2048R/liberxue013里面的liberxue013，2048代表加密轮数，越多越不容易破解
+比如2048R/Jeff013里面的Jeff013，2048代表加密轮数，越多越不容易破解
 ```
 gpg --list-keys
 ```
@@ -55,16 +55,16 @@ git add . && git ci -m "update"
 ```
 ##### 创建一个测试project
 
-在你的github上面创建一个project，比如：https://github.com/liberxue
+在你的github上面创建一个project，比如：https://github.com/Jeff
 
 ######  配置远端加密版本库
 ```
-git remote add cryptremote gcrypt::git@github.com:liberxue/liberxue.git
+git remote add cryptremote gcrypt::git@github.com:Jeff/Jeff.git
 ```
 ###### 最好指定用哪个key加密
  这样可以共享这个key给其他人用
 ```
-git config remote.cryptremote.gcrypt-participants "liberxue013"
+git config remote.cryptremote.gcrypt-participants "Jeff013"
 ```
 ###### push到远端
 ```
@@ -87,12 +87,12 @@ gpg --import secretkey.asc
 ```
 ###### 下载代码
 ```
-git clone gcrypt::git@github.com:liberxue/liberxue.git test2 // test2是git clone 在本地的文
+git clone gcrypt::git@github.com:Jeff/Jeff.git test2 // test2是git clone 在本地的文
 件名
 ```
 ###### 也要指定一下用什么key加密
 ```
-git config remote.cryptremote.gcrypt-participants "liberxue013"
+git config remote.cryptremote.gcrypt-participants "Jeff013"
 
 ```
 
