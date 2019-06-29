@@ -9,6 +9,8 @@ tags:
 - blog
 - TEST
 ---
+
+![](http://chanjeff123.github.io/style/images/updated.png)
 # test
    hello world
 
