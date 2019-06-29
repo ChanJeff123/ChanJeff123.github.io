@@ -6,19 +6,22 @@ signoff:          "Jeff" # Your name
 facebook_appid:   #JEFF
 google_analytics: UA-101222464-1
 share:            true 
+#### Exclude
+#exclude: ["vendor"]
 # 分页
 paginate: 15
 paginate_path: "JEFF page:num"
 gems: [jekyll-paginate]
+
 links:
   - name:         首页
     url:          /
     external:     false
-  - name:         设计
-    url:          /design
+  - name:         随笔
+    url:          /book
     external:     false
-  - name:         生活
-    url:          /life
+  - name:         技术
+    url:          /tech
     external:     false
   - name:         归档
     url:          /archives
@@ -32,7 +35,7 @@ links:
 # ------------ CONFIGURABLE END ------------
 
 #permalink:        /:categories/:title.html
-permalink: /:year/:month/:day/:title.html
+permalink:  /:categories/:year/:month/:day/:title.html
 defaults:
   - values:
       layout: "default"

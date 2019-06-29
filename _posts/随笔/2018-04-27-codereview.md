@@ -2,7 +2,7 @@
 layout: blog
 book: true
 title: "code review 随笔"
-background-image: "http://zhangjinbo619-github.oss-cn-hangzhou.aliyuncs.com/zhangjinbo619.github.io/codereview.jpg"
+background-image: "http://chanjeff123-github.oss-cn-hangzhou.aliyuncs.com/chanjeff123.github.io/codereview.jpg"
 date: "2018-04-27 22:35:30"
 category: book
 tags:
@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![code review](http://zhangjinbo619-github.oss-cn-hangzhou.aliyuncs.com/zhangjinbo619.github.io/codereview.jpg)
+![code review](http://chanjeff123-github.oss-cn-hangzhou.aliyuncs.com/chanjeff123.github.io/codereview.jpg)
 
 # 背景
    最近app项目ios&&android项目上线，我的初衷是为了让大家一起提高编码质量，当然从无到有的过程是痛苦的。但是做任何一件事情都要明确目标，客观分析。

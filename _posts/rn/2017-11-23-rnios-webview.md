@@ -2,7 +2,7 @@
 layout: blog
 tech: true
 title: "react native 0.44.3 ios webview 102 error"
-background-image: "http://zhangjinbo619-github.oss-cn-hangzhou.aliyuncs.com/zhangjinbo619.github.io/ios-webview-102.png"
+background-image: "http://chanjeff123-github.oss-cn-hangzhou.aliyuncs.com/chanjeff123.github.io/ios-webview-102.png"
 date: "2017-11-23"
 category: code #book,game,note,chat,code,image,web,link,design,lock
 tags:
@@ -11,7 +11,7 @@ tags:
 - webview
 ---
 
-![102 error](http://zhangjinbo619-github.oss-cn-hangzhou.aliyuncs.com/zhangjinbo619.github.io/code-sum.jpg)
+![102 error](http://chanjeff123-github.oss-cn-hangzhou.aliyuncs.com/chanjeff123.github.io/code-sum.jpg)
 
 # 目的
   app项目首页banner功能，点击进入活动页面。由于web微站早已上线，为了不重复开发
@@ -23,7 +23,7 @@ tags:
 
 # 遇到的坑
  点击banner进入拦截器了并且也跳转了对应的原生页面，可是从详情页返回后，尽然。。。😌，什么鬼？？
- ![102 error](http://zhangjinbo619-github.oss-cn-hangzhou.aliyuncs.com/zhangjinbo619.github.io/ios-webview-102.png?x-oss-process=image/resize,w_400)
+ ![102 error](http://chanjeff123-github.oss-cn-hangzhou.aliyuncs.com/chanjeff123.github.io/ios-webview-102.png?x-oss-process=image/resize,w_400)
 
 # 分析
 

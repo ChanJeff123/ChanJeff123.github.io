@@ -1,13 +1,16 @@
----
 
+# 说明
 
-#### 联系方式
-******
- 
-你可以通过以下几种方式联系到我。
+### 业余时间
 
-* [提交Issues](https://github.com/chanjeff123/chanjeff123.github.io/issues)
+- 了解当前主流技术，捣鼓些demo
+- github搬运工
+
+### 个人习惯
+ 学习新技术喜欢快速出demo，实现功能，回头在了解其原理 ，崇尚二八定律。
+
+ ***
+# 第一篇博客
  
-* [发邮件](mailto:chenwanyuan813@gmail.com)
- 
-* [Twitter](https://twitter.com/chanjeff123).
+作为网站的第一篇博客，并没有太多事情要写
+
