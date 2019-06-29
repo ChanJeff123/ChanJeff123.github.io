@@ -10,8 +10,6 @@ tags:
 ---
 
 
-![code]({{ site.url }}/style/images/updated.png)
-
 # 背景
    hello world 记录下学习经历
 
