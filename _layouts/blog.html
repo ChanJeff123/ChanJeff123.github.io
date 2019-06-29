@@ -51,8 +51,15 @@
                         itemprop="datePublished">发布时间：{{ page.date | date: "%F %H:%M:%S"}}</time>
                     <a href="/tags#{{ page.category }}" title="访问 {{ page.category }}"
                         data-hover="博客分类: {{ page.category }}">博客分类: {{ page.category }}</a>
-                    <a href="#read"> 阅读次数: comments</a>
+                    {% if site.leancloud.enable %}
+                    <a href="#read">
+                        <span id="{{ page.url }}" class="leancloud_visitors" data-flag-title="{{ page.title }}">
+                            阅读次数: <span class="leancloud-visitors-count">🤔</span>
+                        </span>
+                    </a>
+                    {% endif %}
                 </div>
+
                 <div class="post-tags">
                     {% unless page.tags == empty %}
                     {% assign tags_list = page.tags %}
@@ -109,9 +116,7 @@
             </p>
             {{ content }}
             <p class="post-info">
-                本文由 <a href="/">Jeff</a> 创作，采用 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank"
-                    rel="external nofollow">知识共享署名4.0</a>
-                国际许可协议进行许可<br>本站文章除注明转载/出处外，均为本站原创或翻译，转载前请务必署名<br>最后编辑时间为:{{ page.date | date: "%F %H:%M:%S"}}</p>
+                本站文章除注明转载/出处外，均为本站原创或翻译，转载前请务必署名<br>最后编辑时间为:{{ page.date | date: "%F %H:%M:%S"}}</p>
         </div>
     </article>
 
