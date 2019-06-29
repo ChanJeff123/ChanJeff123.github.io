@@ -52,7 +52,7 @@ Jeff
 * [发邮件](mailto:chenwanyuan813@gmail.com)
 
 WeChat好友
-![WeChat](https://github.com/ChanJeff123/ChanJeff123.github.io)
+![WeChat](https://github.com/ChanJeff123/ChanJeff123.github.io/blob/master/thumbnails/wechatadd.jpg?raw=true)
 
 
 # 致谢
