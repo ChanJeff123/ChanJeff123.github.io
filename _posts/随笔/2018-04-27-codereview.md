@@ -2,16 +2,18 @@
 layout: blog
 book: true
 title: "第一篇blog随笔"
-background-image: "{{ site.url }}/style/images/updated.png"
+background-image: ../style/images/updated.png
 date: "2019-04-27 22:35:30"
-category: book
+category: 随笔
 tags:
 - blog
+- TEST
 ---
-
+# test
+   hello world
 
 # 背景
-   hello world 记录下学习经历
+   记录下学习经历
 
 
 # 后记
