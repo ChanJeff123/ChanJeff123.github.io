@@ -1,6 +1,7 @@
 GEM
 gem "jekyll", ">= 3.6.3"
 gem "ffi", ">= 1.9.24"
+gem "nokogiri", ">= 1.8.5"
   remote: http://rubygems.org/
   specs:
     activesupport (4.2.7)
