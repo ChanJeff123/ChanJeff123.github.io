@@ -13,9 +13,12 @@ redirect_from:
 ---
 
 # 介绍
-Jeff
-来自中国-福建-莆田
-目前在上海-张江
+Jeff  
+来自中国-福建-莆田  
+目前在上海-张江  
+
+ tags:`coder` `maker`和`dancer`...
+
 ## 方向
 目前方向是开源硬件产品经理，开发各种有意思的小demo
 
@@ -25,10 +28,6 @@ Jeff
 ``shell``
 
   
-### 个人爱好
-
- tags:`coder` `maker`和`dancer`...
- 
 ### 业余时间
 
 - 了解当前主流技术，捣鼓些demo
@@ -51,6 +50,9 @@ Jeff
 你可以通过以下几种方式联系到我。  
  提交issue  
 * [发邮件](mailto:chenwanyuan813@gmail.com)
+
+WeChat好友
+![WeChat](https://github.com/ChanJeff123/ChanJeff123.github.io)
 
 
 # 致谢
