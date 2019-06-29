@@ -1,8 +1,6 @@
 
                            
-####  preview  (http://chanjeff123.github.com)
-
-view blog https://ChanJeff123.github.io
+# view blog (https://ChanJeff123.github.io)
 
 
 ---
