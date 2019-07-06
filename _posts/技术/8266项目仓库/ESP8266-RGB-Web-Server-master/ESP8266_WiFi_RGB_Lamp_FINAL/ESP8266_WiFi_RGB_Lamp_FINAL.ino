@@ -1,13 +1,3 @@
-/*ESP8266WiFiWebServer
- * Copyright (c) 2015, Majenko Technologies
- * All rights reserved.
- */
-
-/*The following project leans heavily on the NeoPixel library from Adafruit */
-/* Many thanks to Adafruit for the NeoPixel library and NeoCandle code. */
-/* https://www.adafruit.com/ */
-
-
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
@@ -16,7 +6,7 @@
 #include <EEPROM.h>
 #include "html_pages.h"
 
-#define PIN 4
+#define PIN 4              //D2
 #define NUMPIXELS 12                // Number of LED's in your strip
 
 // START OF CANDLE MODE RELATED STUFF ////////////////////////////////////////////////
